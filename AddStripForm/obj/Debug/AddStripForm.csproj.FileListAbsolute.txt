@@ -1,0 +1,60 @@
+E:\GUI Assignment 2 NEW\AddStripForm\AddStripForm\bin\Debug\AddStripForm.exe.config
+E:\GUI Assignment 2 NEW\AddStripForm\AddStripForm\bin\Debug\AddStripForm.exe
+E:\GUI Assignment 2 NEW\AddStripForm\AddStripForm\bin\Debug\AddStripForm.pdb
+E:\GUI Assignment 2 NEW\AddStripForm\AddStripForm\obj\Debug\AddStripForm.csprojResolveAssemblyReference.cache
+E:\GUI Assignment 2 NEW\AddStripForm\AddStripForm\obj\Debug\AddStripForm.AddStripForm.resources
+E:\GUI Assignment 2 NEW\AddStripForm\AddStripForm\obj\Debug\AddStripForm.Properties.Resources.resources
+E:\GUI Assignment 2 NEW\AddStripForm\AddStripForm\obj\Debug\AddStripForm.csproj.GenerateResource.Cache
+E:\GUI Assignment 2 NEW\AddStripForm\AddStripForm\obj\Debug\AddStripForm.csproj.CoreCompileInputs.cache
+E:\GUI Assignment 2 NEW\AddStripForm\AddStripForm\obj\Debug\AddStripForm.exe
+E:\GUI Assignment 2 NEW\AddStripForm\AddStripForm\obj\Debug\AddStripForm.pdb
+D:\GUI Assignment 2 NEW\AddStripForm\AddStripForm\bin\Debug\AddStripForm.exe.config
+D:\GUI Assignment 2 NEW\AddStripForm\AddStripForm\bin\Debug\AddStripForm.exe
+D:\GUI Assignment 2 NEW\AddStripForm\AddStripForm\bin\Debug\AddStripForm.pdb
+D:\GUI Assignment 2 NEW\AddStripForm\AddStripForm\obj\Debug\AddStripForm.csprojAssemblyReference.cache
+D:\GUI Assignment 2 NEW\AddStripForm\AddStripForm\obj\Debug\AddStripForm.AddStripForm.resources
+D:\GUI Assignment 2 NEW\AddStripForm\AddStripForm\obj\Debug\AddStripForm.Properties.Resources.resources
+D:\GUI Assignment 2 NEW\AddStripForm\AddStripForm\obj\Debug\AddStripForm.csproj.GenerateResource.cache
+D:\GUI Assignment 2 NEW\AddStripForm\AddStripForm\obj\Debug\AddStripForm.csproj.CoreCompileInputs.cache
+D:\GUI Assignment 2 NEW\AddStripForm\AddStripForm\obj\Debug\AddStripForm.exe
+D:\GUI Assignment 2 NEW\AddStripForm\AddStripForm\obj\Debug\AddStripForm.pdb
+C:\Unitec\GUI Assignment 2 NEW\AddStripForm\AddStripForm\obj\Debug\AddStripForm.csprojAssemblyReference.cache
+C:\Unitec\GUI Assignment 2 NEW\AddStripForm\AddStripForm\obj\Debug\AddStripForm.AddStripForm.resources
+C:\Unitec\GUI Assignment 2 NEW\AddStripForm\AddStripForm\obj\Debug\AddStripForm.Properties.Resources.resources
+C:\Unitec\GUI Assignment 2 NEW\AddStripForm\AddStripForm\obj\Debug\AddStripForm.csproj.GenerateResource.cache
+C:\Unitec\GUI Assignment 2 NEW\AddStripForm\AddStripForm\obj\Debug\AddStripForm.csproj.CoreCompileInputs.cache
+C:\Unitec\GUI Assignment 2 NEW\AddStripForm\AddStripForm\obj\Debug\AddStripForm.exe
+C:\Unitec\GUI Assignment 2 NEW\AddStripForm\AddStripForm\obj\Debug\AddStripForm.pdb
+C:\Unitec\GUI Assignment 2 NEW\AddStripForm\AddStripForm\bin\Debug\AddStripForm.exe.config
+C:\Unitec\GUI Assignment 2 NEW\AddStripForm\AddStripForm\bin\Debug\AddStripForm.exe
+C:\Unitec\GUI Assignment 2 NEW\AddStripForm\AddStripForm\bin\Debug\AddStripForm.pdb
+E:\05062018\GUI Assignment 2 NEW\AddStripForm\AddStripForm\obj\Debug\AddStripForm.csprojResolveAssemblyReference.cache
+E:\05062018\GUI Assignment 2 NEW\AddStripForm\AddStripForm\obj\Debug\AddStripForm.AddStripForm.resources
+E:\05062018\GUI Assignment 2 NEW\AddStripForm\AddStripForm\obj\Debug\AddStripForm.Properties.Resources.resources
+E:\05062018\GUI Assignment 2 NEW\AddStripForm\AddStripForm\obj\Debug\AddStripForm.csproj.GenerateResource.Cache
+E:\05062018\GUI Assignment 2 NEW\AddStripForm\AddStripForm\obj\Debug\AddStripForm.csproj.CoreCompileInputs.cache
+E:\05062018\GUI Assignment 2 NEW\AddStripForm\AddStripForm\obj\Debug\AddStripForm.exe
+E:\05062018\GUI Assignment 2 NEW\AddStripForm\AddStripForm\obj\Debug\AddStripForm.pdb
+E:\05062018\GUI Assignment 2 NEW\AddStripForm\AddStripForm\bin\Debug\AddStripForm.exe.config
+E:\05062018\GUI Assignment 2 NEW\AddStripForm\AddStripForm\bin\Debug\AddStripForm.exe
+E:\05062018\GUI Assignment 2 NEW\AddStripForm\AddStripForm\bin\Debug\AddStripForm.pdb
+D:\05062018\GUI Assignment 2 NEW\AddStripForm\AddStripForm\obj\Debug\AddStripForm.csprojAssemblyReference.cache
+D:\05062018\GUI Assignment 2 NEW\AddStripForm\AddStripForm\obj\Debug\AddStripForm.AddStripForm.resources
+D:\05062018\GUI Assignment 2 NEW\AddStripForm\AddStripForm\obj\Debug\AddStripForm.Properties.Resources.resources
+D:\05062018\GUI Assignment 2 NEW\AddStripForm\AddStripForm\obj\Debug\AddStripForm.csproj.GenerateResource.cache
+D:\05062018\GUI Assignment 2 NEW\AddStripForm\AddStripForm\obj\Debug\AddStripForm.csproj.CoreCompileInputs.cache
+D:\05062018\GUI Assignment 2 NEW\AddStripForm\AddStripForm\obj\Debug\AddStripForm.exe
+D:\05062018\GUI Assignment 2 NEW\AddStripForm\AddStripForm\obj\Debug\AddStripForm.pdb
+D:\05062018\GUI Assignment 2 NEW\AddStripForm\AddStripForm\bin\Debug\AddStripForm.exe.config
+D:\05062018\GUI Assignment 2 NEW\AddStripForm\AddStripForm\bin\Debug\AddStripForm.exe
+D:\05062018\GUI Assignment 2 NEW\AddStripForm\AddStripForm\bin\Debug\AddStripForm.pdb
+E:\APD\Assignment 1B\AddStripForm\AddStripForm\bin\Debug\AddStripForm.exe.config
+E:\APD\Assignment 1B\AddStripForm\AddStripForm\bin\Debug\AddStripForm.exe
+E:\APD\Assignment 1B\AddStripForm\AddStripForm\bin\Debug\AddStripForm.pdb
+E:\APD\Assignment 1B\AddStripForm\AddStripForm\obj\Debug\AddStripForm.csprojResolveAssemblyReference.cache
+E:\APD\Assignment 1B\AddStripForm\AddStripForm\obj\Debug\AddStripForm.AddStripForm.resources
+E:\APD\Assignment 1B\AddStripForm\AddStripForm\obj\Debug\AddStripForm.Properties.Resources.resources
+E:\APD\Assignment 1B\AddStripForm\AddStripForm\obj\Debug\AddStripForm.csproj.GenerateResource.Cache
+E:\APD\Assignment 1B\AddStripForm\AddStripForm\obj\Debug\AddStripForm.csproj.CoreCompileInputs.cache
+E:\APD\Assignment 1B\AddStripForm\AddStripForm\obj\Debug\AddStripForm.exe
+E:\APD\Assignment 1B\AddStripForm\AddStripForm\obj\Debug\AddStripForm.pdb
